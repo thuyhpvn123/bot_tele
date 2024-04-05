@@ -1,0 +1,21 @@
+
+DatabaseURL: "root:password@tcp(127.0.0.1:3306)/kven?charset=utf8mb4&parseTime=True&loc=Local"  
+APIAddress: "0.0.0.0:8080" 
+Address: "83cec343cfc7a6644c1547277d26d7a621fdc40c" # Admin Address
+PrivateKey_: "6f2c7d50eb6241a221a11efe67dabd058986683fcd55ecffbd585066f3132cb5"
+MetaNodeVersion: "0.0.1" 
+
+NodeAddress: "3a24f5f813cba9ac7c6eb8a416b25cf5c6458e32" 
+NodeConnectionAddress: "node" 
+
+StorageAddress: "0xda7284faC5E804F8b9d71Aa39310f0f86776b51d"
+StorageConnectionAddress: "storage"
+
+UsdtAddress: "0x0000000000000000000000000000000000000002"  # Kventure Address
+UsdtABIPath: "../../abi/usdt.json"
+
+DnsLink_: "http://35.185.166.168:7500/api/dns/connection-address/" # Devnet
+
+MintHash: "e481c7a81eeae9654aef25a7c6b46e617d0d2c00c9215995ac059d482090d727"
+ChatID : "-4106697855" 
+BotToken : "1445784583:AAGIJpLzxGsB7csutW2fj7MVIOQlvQNa1XY"
